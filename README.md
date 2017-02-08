@@ -1,4 +1,4 @@
-# jenkins_plugins_install
+# Jenkins Plugins install
 Scripts to automate install plugins for Jenkins 2
 
 Install
